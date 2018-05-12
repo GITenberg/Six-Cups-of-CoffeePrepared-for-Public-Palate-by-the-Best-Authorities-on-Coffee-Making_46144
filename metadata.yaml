@@ -1,0 +1,79 @@
+_repo: Six-Cups-of-CoffeePrepared-for-Public-Palate-by-the-Best-Authorities-on-Coffee-Making_46144
+_version: 0.1.0
+alternative_title: "6 Cups of Coffee\r\nPrepared for the Public Palate by the Best\
+  \ Authorities on Coffee Making"
+covers:
+- cover_type: archival
+  image_path: 46144-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Campbell, Helen
+    aliases:
+    - Campbell, Helen Stuart, Mrs.
+    - Wheaton, Campbell
+    - Weeks, Helen C. (Helen Campbell)
+    birthdate: 1839
+    deathdate: 1918
+    gutenberg_agent_id: '2222'
+    url: http://www.gutenberg.org/2009/agents/2222
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Stuart_Campbell
+  - agent_name: Corson, Juliet
+    alias: Corson, Miss (Juliet)
+    birthdate: 1842
+    deathdate: 1897
+    gutenberg_agent_id: '33326'
+    url: http://www.gutenberg.org/2009/agents/33326
+  - agent_name: Harland, Marion
+    aliases:
+    - Terhune, Edward Payson, Mrs.
+    - Terhune, Mary Virginia Hawes
+    - Hawes, Mary Virginia
+    birthdate: 1830
+    deathdate: 1922
+    gutenberg_agent_id: '1818'
+    url: http://www.gutenberg.org/2009/agents/1818
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Virginia_Terhune
+  - agent_name: Lincoln, Mary J. (Mary Johnson)
+    aliases:
+    - Lincoln, Mrs. D. A.
+    - Lincoln, Mary Johnson Bailey
+    - Bailey, Mary
+    - Lincoln, Daniel A., Mrs.
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '6016'
+    url: http://www.gutenberg.org/2009/agents/6016
+    wikipedia: http://www.foodhistory.com/foodnotes/leftovers/lincoln/mjb/01/index.htm
+  - agent_name: Owen, Catherine
+    alias: Nitsch, Helen Alice Matthews
+    deathdate: 1889
+    gutenberg_agent_id: '31905'
+    url: http://www.gutenberg.org/2009/agents/31905
+  - agent_name: Parloa, Maria
+    alias: Parloa, Miss (Maria)
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '2186'
+    url: http://www.gutenberg.org/2009/agents/2186
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Parloa
+  - agent_name: Poole, Hester M. (Hester Martha)
+    alias: Poole, H. M. (Hester Martha)
+    birthdate: 1833
+    deathdate: 1932
+    gutenberg_agent_id: '43624'
+    url: http://www.gutenberg.org/2009/agents/43624
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coffee'
+- !lcc 'TX'
+title: "Six Cups of Coffee\r\nPrepared for the Public Palate by the Best Authorities\
+  \ on Coffee Making"
+url: http://www.gutenberg.org/ebooks/46144
